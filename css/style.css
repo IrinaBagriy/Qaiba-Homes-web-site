@@ -1,0 +1,228 @@
+.first-page{
+    width: auto;
+    height: 700px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url("/images/main.jpg");
+
+}
+.Qaiba-Homes{
+    padding-top: 80px;
+    padding-left: 200px;
+    color: aliceblue;
+}
+.Qaiba-Homes-text{
+    padding-left: 200px;
+    font-size: 70px;
+    color: aliceblue;
+    padding-top: 50px;
+}
+.Qaiba-Homes-offers{
+ color: aliceblue;
+ padding-top: 5px;   
+ padding-left: 215px;
+}
+.button-View-Properties{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(204, 176, 230);
+   border-radius: 15px;
+   border: 0;
+   margin-left: 215px;
+   margin-top: 30px;
+   color: aliceblue;
+}
+.button-View-Properties:hover
+ {
+cursor: pointer;
+background-color: rgb(179, 111, 242);
+
+
+
+}
+
+.About-Qaiba-foundation{
+   
+    width: 500px;
+}
+.second-page{
+    list-style: none;
+    display: flex;
+    margin-top: 80px;
+    
+}
+.second-page-element{
+    padding-right: 100px;
+    padding-top: 20px;
+}
+
+.second-page-img{
+    
+    width: 700px;
+    height: 500px;
+}
+
+.Get-In-Touch-button{
+    width: 150px;
+        height: 50px;
+        background-color: rgb(204, 176, 230);
+        border-radius: 15px;
+        border: 0;
+        margin-top: 50px;
+        color: aliceblue;
+}
+.Get-In-Touch-button:hover{
+    cursor: pointer;
+        background-color: rgb(179, 111, 242);
+}
+.third-block{
+    width: auto;
+    height: 700px;
+    background-image: url("/images/third.jpg");
+         
+    background-size: 100%;
+    background-repeat: no-repeat;
+  
+}
+.blur{
+width: auto;
+height: 575px;
+color: rgb(255, 255, 255);
+backdrop-filter: blur(5px);
+}
+
+.Services-Strategies{
+    font-size: xx-large;
+    color: aliceblue;
+    padding-top: 50px;
+    text-align: center;
+}
+.objects{
+    padding-top: 50px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+.background{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 450px;
+}
+
+.photo{
+    width: 300px;
+    height: 290px;
+}
+
+.object-name{
+    padding-top: 10px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.object-text{
+    text-align: center;
+    color: black;
+}
+
+
+.fourth-section{
+    margin-top: 100px;
+    width: auto;
+    height: 600px;
+}
+
+
+
+.fourth-section-text{
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 400px;
+    font-size: xx-large;
+}
+
+.list-four{
+    padding-left: 106px;
+    display: flex;
+    list-style: none;
+  
+}
+
+.first-phto{
+    width: 150px;
+    height: 250px;
+    padding-right: 5px;
+    padding-top: 250px;
+    padding-left: 250px;
+}
+.second-photo{
+width: 400px;
+height: 500px;
+
+}
+.li-list{
+
+
+  padding-left: 50px;
+
+
+}
+
+.coloured-text{
+    color: violet;
+}
+
+.fifth-section{
+    width: auto;
+    height: 700px;
+    margin-top: 20px;
+    background-image: url("/images/back.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.Satisfied-Clients{
+    font-size: xx-large;
+    font-weight: 500;
+    padding-top: 100px;
+    padding-left: 77px;
+    color: beige;
+}
+
+.persons-words{
+    color: violet;
+    background-color: aliceblue;
+    width: 200px;
+}
+.Satisfied-Clients-text{
+    padding-left: 900px;
+    display: flex;
+    flex-direction: column;
+}
+.Satisfied-Clients-description{
+   color: aliceblue;
+}
+.sixth-section-list{
+    list-style: none;
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 100px;
+}
+.sixth-section-elements{
+    padding-left: 10px;
+}
+
+
+.Partner-with-us-button{
+    width: 150px;
+        height: 50px;
+        background-color: rgb(204, 176, 230);
+        border-radius: 15px;
+        border: 0;
+        margin-top: 50px;
+        color: aliceblue;
+        margin-left: 700px;
+}
+.Partner-with-us-button:hover{
+    cursor: pointer;
+    background-color: violet;
+}
